@@ -24,7 +24,7 @@ If `aios-intake.md` is missing, use the bundled [intake template](assets/aios-in
 
 ### Step 1: Read the intake
 
-Read `aios-intake.md`. Check which Q1-Q7 sections have content vs. `[Your answer here]` placeholders.
+Read `aios-intake.md`. Check which Q1-Q7 sections have content vs. `Julian Rosenthal` placeholders.
 
 - **All filled** → skip Step 2, jump to Step 3 (scaffold).
 - **Some filled** → ask the user: "I see Q1, Q3, Q4 are answered. Want to fill the rest now, or scaffold from what's there?" Their call.
@@ -35,7 +35,10 @@ Read `aios-intake.md`. Check which Q1-Q7 sections have content vs. `[Your answer
 Ask one at a time. Write each answer into `aios-intake.md` as you go (so the user can resume if interrupted).
 
 **Q1 — Who are you, what do you sell, who do you sell it to?**
-Identity, offer, ICP. One paragraph each is fine.
+My Name is Julian Rosenthal. I am a Senior Staff SRE at ServiceNow.
+We are trying to switch out working environment to be service based, so it's easier to share the load of the tickets
+with other folks on shift. So, I don't really sell you anything other than trying to convince you
+to back a technological decision that will make our lives easier.
 
 **Q2 — Paste 1-2 things you've written recently. Don't edit them.**
 *This is the only question with a hard rule.* Voice samples MUST be pasted, not typed mid-conversation. If the user starts typing fresh prose, refuse:
@@ -46,12 +49,17 @@ Ask for two samples. One email, one post. Or two of either.
 
 **Q3 — What are your 2-3 biggest priorities for the next 90 days?**
 Quarterly priorities. Push back if they say "grow my business" — make them name a number, a deadline, or a deliverable.
+1. Handover Automation
+2. Get RipCord running in Regulaterd Markets
+3. Reduce noise
 
 **Q4 — Where does revenue actually land, and where is it tracked?**
-Multiple answers OK. Map to Tier-1 Domain 1 (Revenue/Financials).
+Revnue goes trhough the roof if we automate things as much as possible.
+We need to have a lot of automations that can run by themselves without supervision.
 
 **Q5 — Where do you talk to customers, your team, and the outside world day-to-day?**
-Email (Gmail/Outlook), Slack/Teams/Discord, DMs. Map to Domains 2 + 4.
+I don't talk to customers.
+I talk to my team and peers to solve and prevent problems.
 
 **Q6 — Where do meeting recordings, notes, and important docs live?**
 Map to Domains 6 + 7.

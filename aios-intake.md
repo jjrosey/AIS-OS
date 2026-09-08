@@ -11,8 +11,10 @@ This is the source-of-truth file for your AIOS. Fill it in by typing, voice-past
 Identity, offer, ICP. One paragraph each is fine.
 
 ```
-[Your answer here]
-```
+[Julian Rosenthal]
+My name is Julian Rosenthal. I am a Senior Staff SRE at ServiceNow.
+We are trying to switch our working environment to be service based, so it's easier to share the load ofthe tickets
+with other folks on shift. Si, I don't really sell anything other than trying to convince you to back a technological decision that will make our lives esier
 
 ---
 
@@ -26,6 +28,7 @@ An email, a LinkedIn post, a DM, a doc — anything that sounds like you when yo
 
 ```
 [Sample 2 — paste raw]
+
 ```
 
 ---
@@ -35,9 +38,9 @@ An email, a LinkedIn post, a DM, a doc — anything that sounds like you when yo
 Quarterly priorities. Not yearly aspirations. Things that, if not done by July, would make you say "I wasted Q2."
 
 ```
-1. [Priority 1]
-2. [Priority 2]
-3. [Priority 3]
+1. Handover automation
+2. Get RipCord into Regulated Markets
+3. Reduce noise!
 ```
 
 ---
@@ -47,7 +50,8 @@ Quarterly priorities. Not yearly aspirations. Things that, if not done by July, 
 Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 
 ```
-[Your answer here]
+[I only influence how many automations we can deploy - I want to automate reliably and reliably repeatable.
+Once that is in place revenue improves instantly.
 ```
 
 ---
@@ -57,7 +61,9 @@ Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMessage)? Phone?
 
 ```
-[Your answer here]
+I don't talk to outside customers at all.
+My customers are all internal teams that I relie on or that relie on me.
+I talk to my team and higher ups via e-mail and Teams.
 ```
 
 ---
@@ -67,7 +73,7 @@ Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMes
 Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your desktop you keep meaning to organize?
 
 ```
-[Your answer here]
+[Sharepoint]
 ```
 
 ---
@@ -77,9 +83,5 @@ Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your deskt
 The single biggest time-suck or recurring drudgery. Plus where tasks/projects live (ClickUp / Asana / Linear / Notion / a notebook).
 
 ```
-[Your answer here]
-```
-
----
-
-When this file is filled, run `/onboard` (or re-run it) and the wizard will scaffold your Day-1 file set: `context/`, `references/voice.md`, populated `connections.md`, and a filled `CLAUDE.md`.
+[RipCord could use more progress, but more issues seemt to be cropping up]
+ this file is filled, run `/onboard` (or re-run it) and the wizard will scaffold your Day-1 file set: `context/`, `references/voice.md`, populated `connections.md`, and a filled `CLAUDE.md`.
